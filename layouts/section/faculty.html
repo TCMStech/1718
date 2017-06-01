@@ -1,0 +1,34 @@
+{{partial "header.html"}}
+
+<div class="container">
+
+<div>
+<h2 class="text-center">Faculty</h2>
+<hr/>
+</div>
+
+{{ $faculty := where .Site.Pages "Section" "faculty" }}
+{{ $total_faculty := 52 }}
+{{ $columns := 4 }}
+{{ $rows := div $total_faculty $columns }}
+
+{{ range (seq 1 $rows) }}
+ {{ $rowno := . }}
+  <div class="row">
+  {{ range (seq 0 (add $columns -1) )  }}
+    {{ $colno := . }}
+    {{ $i := (add (mul (add $rowno -1) $columns) $colno) }}
+    {{ $page := (index $faculty $i)}}
+    <div class="col-md-3 col-sm-6 text-center">
+       <div class="panel-heading">
+               <img class="center-block img-responsive" src="{{ $page.Params.image }}" alt="">
+         <h4><a href="mailto:{{ $page.Params.email }}">{{ $page.Params.name }}</a><br/> {{ $page.Params.subject }} </h4>
+       </div>
+    </div>
+  {{end}}
+  </div>
+{{end}}
+
+
+<hr/>
+{{partial "footer.html"}}
