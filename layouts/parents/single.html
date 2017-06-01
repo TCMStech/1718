@@ -1,0 +1,37 @@
+{{ partial "header.html" . }}
+
+<div class="container">
+
+<div class="row">
+  <a name="{{ .Params.anchor }}" class="text-center"> <h2>{{ .Params.title }}</h2></a>
+
+{{ if eq .Params.instructor "true" }}
+  <div class="col-md-4"></div>
+
+  <div class="col-md-4">
+    <div class="col-md-1 "></div>
+    <div class="col-md-10 ">
+        <img alt="" class="img-responsive " src= {{ .Params.instructor1.image }} />
+        <div class="text-center"> <h4>{{ .Params.instructor1.name }}</h4> </div>
+        <div class="col-md-1 "></div>
+  </div>
+  </div>
+
+  <div class="col-md-4"></div>
+{{ end }}
+</div>
+
+
+<div class="bar"></div>
+
+<div class="row">
+   <div class="col-md-12">
+        <br/>
+        <div class="text-justify ">{{ .Content }}</div>
+        <br/>
+    </div>
+</div>
+
+<div class="bar"></div>
+
+{{ partial "footer.html" . }}

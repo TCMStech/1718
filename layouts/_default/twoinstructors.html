@@ -1,0 +1,29 @@
+
+<div class="row">
+        <a name="{{ .Params.anchor }}" class="text-center"> <h2>{{ .Params.title }}</h2></a>
+  <br/>
+
+
+  <div class="col-md-6">
+    <img alt="" class="center-block img-responsive " src= {{ .Params.instructor1.image }} />
+    <div class="text-center"> <h4>{{ .Params.instructor1.name}}</h4> </div>
+  </div>
+
+  <div class="col-md-6">
+     <img alt="" class="center-block img-responsive " src= {{ .Params.instructor2.image }} />
+     <div class="text-center"> <h4>{{ .Params.instructor2.name }} </h4> </div>
+  </div>
+
+
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <br/>
+        <div class="text-justify ">{{ .Content }}</div>
+        <br/>
+    </div>
+</div>
+
+<div class="bar"></div>
+

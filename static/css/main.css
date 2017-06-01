@@ -1,0 +1,414 @@
+
+/* Global Styles */
+
+@font-face {
+    font-family: "Lora";
+    src: url("/fonts/Lora-Regular.ttf");
+}
+@font-face {
+    font-family: "Lora";
+    src: url("/fonts/Lora-Bold.ttf");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Lora";
+    src: url("fonts/Lora-Italic.ttf");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Lora";
+    src: url("fonts/Lora-BoldItalic.ttf");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("/fonts/Roboto-Black.ttf");
+}
+@font-face {
+    font-family: "Roboto";
+    src: url("/fonts/Roboto-Bold.ttf");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Roboto";
+    src: url("fonts/Roboto-BlackItalic.ttf");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Roboto";
+    src: url("fonts/Roboto-BoldItalic.ttf");
+    font-weight: bold;
+    font-style: italic;
+}
+
+html,
+body {
+    height: 100%;
+    background-color: #D1D1D1 !important;
+    font-family: 'Roboto', monospace !important;
+    font-size: 20px !important;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+    height: 50%;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bar {
+    width:            100%;
+    height:           3px;
+    background:       #DDD;
+}
+
+/* 404 Page Styles */
+
+.error-404 {
+    font-size: 100px;
+}
+
+/* Responsive Styles */
+
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+    header.carousel .carousel {
+        height: 70%;
+    }
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; // remove the gap so it doesn't close
+ }
+
+
+ .about-padding {
+	 padding: 20px;
+ }
+
+ .pad10 {
+	 padding: 10px;
+ }
+
+
+ .mission {
+	 padding: 10px;
+	 background-color: #dddddd;
+ }
+
+ .about {
+	 padding: 10px;
+	 background-color: #ecf0d8;
+ }
+
+ .margin10r {
+	 margin-right: 10px;
+ }
+
+ .margin10l {
+	 margin-left 10px;
+ }
+
+
+ div#goals {
+   background-color: #dddddd;
+   border-left:10px solid white;
+   padding: 10px;
+}
+
+div#vision {
+   background-color: #dddddd;
+   border-right:10px solid white;
+   padding: 10px;
+}
+
+.vg {
+}
+
+
+
+.pmessage {
+        font-family: 'Lora', serif;
+}
+
+
+
+.menufont  {
+        font-family: 'Lora', serif;
+}
+
+
+#abcd div:hover {
+  background-color: #bad0b8;
+  background-image: -webkit-linear-gradient(right, #FC7864, #FDA366);
+  background-image: -moz-linear-gradient(right, #FC7864, #FDA366);
+  background-image: -o-linear-gradient(right, #FC7864, #FDA366);
+  background-image: -ms-linear-gradient(right, #FC7864, #FDA366);
+  background-image: linear-gradient(right, #FC7864, #FDA366);
+}
+
+.nav a{
+    font-size: 1.0em !important;
+}
+
+.nav a:hover {
+    color: orange !important;
+    background-color: black !important;
+}
+
+#footer {
+        margin-top: 10px;
+}
+
+#footer a:hover {
+        color: black !important;
+        text-shadow: 2px 0px orange;
+        text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+}
+.footer li {
+  display: inline;
+}
+.footer-info {
+  text-align: center;
+}
+.footer-info li {
+  display: inline-block;
+}
+
+img {
+    width: 250px;
+    height: auto;
+    border: 3px solid #fff;
+    padding: 0;
+    display: block;
+    margin: auto;
+}
+
+.email {
+        font-size: 0.7em;
+}
+
+.awardimg  {
+    border: 0px ;
+}
+
+.tcms.navbar-brand {
+    color: orange; 
+    font-size: 1.0em;
+}
+
+
+ .slick-slide img {
+ height: 180px;
+ width: 100%;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ border: 0px;
+ overflow: auto;
+ object-fit: contain;
+ max-width: 100vw;
+ 
+ }
+
+ .slick-arrow {
+    position: absolute;
+    top: 35%;
+    background: transparent;
+    height: 20px;
+    color: transparent;
+    border: none;
+}
+
+ .slick-prev, .slick-next {
+     height: 25px;
+     width: 25px;
+}
+
+.slick-prev:before {
+    content: "\f104";
+    font-family: FontAwesome;
+    padding: 0 40px;
+    color: white;
+    position: absolute;
+    font-size: 50px;
+    top: 0%;
+    left: 30%;
+    z-index: 5;
+
+}
+
+
+.slick-next:before {
+    content: "\f105";
+    font-family: FontAwesome;
+    padding: 0 40px;
+    color: white;
+    position: absolute;
+    font-size: 50px;
+    top: 0%;
+    right: 30%;
+}
+
+.slick-arrow:hover {
+        color; red !important;
+}
+
+.one  {
+    color:black; 
+    background-color:white !important;
+    width:100%;
+    text-align:right; 
+    margin-top:-70px;
+    padding-right: 20px;
+    z-index:5;
+    Position:relative;
+    opacity: .7;
+}
+
+ 
+
+
+/* sm */
+@media (min-width: 768px) {
+    img {
+        height: 150px;
+    }
+    .slick-slide img {
+            height: 250px;
+    }
+    .tcms.navbar-brand {
+            font-size: 1.1em;
+    }
+    .nav a{
+        font-size: 1.1em !important;
+    }
+
+}
+/* md */
+@media (min-width: 992px) {
+    img {
+        height: 150px;
+    }
+
+    .tcms.navbar-brand {
+            font-size: 1.1em;
+    }
+    .nav a{
+        font-size: 1.1em !important;
+    }
+    .slick-slide img {
+            height: 350px;
+            width: 100%;
+    }
+
+ .slick-arrow {
+    height: 50px;
+}
+
+ .slick-prev, .slick-next {
+     height: 55px;
+     width: 55px;
+}
+
+.slick-prev:before {
+    padding: 0 40px;
+    font-size: 70px;
+    top: 0%;
+    left: 30%;
+
+}
+
+
+.slick-next:before {
+    padding: 0 40px;
+    font-size: 70px;
+    top: 0%;
+    right: 30%;
+}
+}
+/* lg */
+@media (min-width: 1200px) {
+    img {
+        width: 250px;
+    }
+    .slick-slide img {
+            height: 380px;
+    }
+
+    .tcms.navbar-brand {
+            font-size: 1.2em;
+    }
+
+    .nav a{
+        font-size: 1.2em !important;
+    }
+ .slick-arrow {
+    height: 50px;
+}
+
+ .slick-prev, .slick-next {
+     height: 55px;
+     width: 55px;
+}
+
+.slick-prev:before {
+    padding: 0 40px;
+    font-size: 70px;
+    top: 0%;
+    left: 30%;
+
+}
+
+
+.slick-next:before {
+    padding: 0 40px;
+    font-size: 70px;
+    top: 0%;
+    right: 30%;
+}
+}
+
+

@@ -1,0 +1,63 @@
+{{ partial "header.html"  }}
+
+<div class="container">
+
+          <a href="#" class="text-center"><h3>Welcome to 6th Grade</h3></a>
+          <div class="bar">
+          <br>
+   <div class="row">
+      <div class="col-md-3 col-sm-3">
+          <div class="panel-heading"><img alt="" class="center-block img-responsive " src= "/images/diaz.jpg" /></div>
+          <div class="text-center"> <h4>Ms. Cecilia Diaz <br/> Sixth Grade Level Administrator</h4> </div>
+      </div>
+
+      <div class="col-md-9 col-sm-3">
+        <p>6th grade students take 4 core courses and 2 electives</p>
+
+        <div class="row">
+        <div class="col-md-5 col-sm-3">
+          <h3>Core Courses</h3>
+
+          <ul>
+            <li><a href="#AdvancedLanguageArts">Advanced Language Arts </a></li>
+            <li><a href="#Mathematics">Mathematics Advanced </a></li>
+            <li><a href="#science">Earth/Space Sceince Advanced </a></li>
+            <li><a href="#geography">Geography: Asia, Oceania, Africa Course </a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-6 col-sm-3">
+          <h3>Electives</h3>
+
+          <ul>
+            <li><a href="#Art">Art</a></li>
+            <li><a href="#Music">Music/Band</a></li>
+            <li>Physical Education</li>
+            <li><a href="#Spanish">Spanish</a></li>
+            <li><a href="#Technology">Technology</a></li>
+          </ul>
+        </div>
+</div>
+        <br>
+      <div class="row">
+              <div class="col-md-12">
+                      <p><a href="/students/6thgradesupplylist"><h3>Supply List</h3></a></p>
+            </div>
+        </div>
+      </div>
+        <div class="col-md-3"></div>
+    </div>
+
+    <div class="bar"></div>
+
+
+
+{{ range .Data.Pages.ByParam "subjectno" }}
+
+    {{ if eq .Params.layout "twoinstructors" }} {{ .Render "twoinstructors" }} {{ end }}
+
+    {{ if eq .Params.layout "oneinstructor" }} {{ .Render "oneinstructor" }} {{ end }}
+
+{{ end }}
+
+{{ partial "footer.html"  }}

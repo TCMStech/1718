@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "Terrace Community Middle School"
+baseURL = "http://localhost/"
+publishDir = "public"
