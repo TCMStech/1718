@@ -23,22 +23,22 @@
 }
 
 @font-face {
-    font-family: "Roboto";
-    src: url("/fonts/Roboto-Regular.ttf");
+    font-family: "ArchivoNarrow";
+    src: url("/fonts/ArchivoNarrow-Regular.ttf");
 }
 @font-face {
-    font-family: "Roboto";
-    src: url("/fonts/Roboto-Black.ttf");
+    font-family: "ArchivoNarrow";
+    src: url("/fonts/ArchivoNarrow-Bold.ttf");
     font-weight: bold;
 }
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto-Italic.ttf");
+    font-family: "ArchivoNarrow";
+    src: url("fonts/ArchivoNarrow-Italic.ttf");
     font-style: italic;
 }
 @font-face {
-    font-family: "Roboto";
-    src: url("fonts/Roboto-BlackItalic.ttf");
+    font-family: "ArchivoNarrow";
+    src: url("fonts/ArchivoNarrow-BoldItalic.ttf");
     font-weight: bold;
     font-style: italic;
 }
@@ -47,7 +47,7 @@ html,
 body {
     height: 100%;
     background-color: #D1D1D1 !important;
-    font-family: 'Roboto', monospace !important;
+    font-family: 'ArchivoNarrow', monospace !important;
     font-size: 20px !important;
 }
 
