@@ -1,0 +1,61 @@
+<script>
+var hbbids={},adUnits=[{code:'div-gpt-com-728x90',sizes:[[728,90]],bids:[{bidder:'appnexus',params:{placementId:'11439172'}},{bidder:'sovrn',params:{tagid:'422101'}},{bidder:'rhythmone',params:{placementId: '63831'}},{bidder:'indexExchange',params:{id:1,siteID:189917}},{bidder:'sonobi',params:{ad_unit:'/1004254/com728'}},{bidder:'rubicon',params:{accountId:'16448',siteId:'127484',zoneId:'601634'}},{bidder:'brealtime',params:{placementId:10713957}}]}];
+;
+var pbjs=pbjs||{};pbjs.que=pbjs.que||[];
+var googletag=googletag||{};
+googletag.cmd=googletag.cmd||[];
+googletag.cmd.push(function(){googletag.pubads().disableInitialLoad();});
+pbjs.que.push(function(){
+pbjs.addAdUnits(adUnits);
+pbjs.setPriceGranularity("high");
+pbjs.setBidderSequence('random');
+pbjs.enableSendAllBids();
+pbjs.requestBids({bidsBackHandler: prebidDone});
+});
+function prebidDone(){
+hbbids.prebid=1;
+if(hbbids.ox){sendAdserverRequest()}
+}
+function oxDone(){hbbids.ox=1;if(hbbids.prebid){sendAdserverRequest()}};
+
+function sendAdserverRequest(){
+if(pbjs.adserverRequestSent)return;
+pbjs.adserverRequestSent=true;
+googletag.cmd.push(function(){
+pbjs.que.push(function(){
+var c=0,a,b,r=pbjs.getBidResponses();
+var ox=window.OX;if(ox&&ox.dfp_bidder){ox.dfp_bidder.setOxTargeting();try{var pm=ox.dfp_bidder.getPriceMap();for(i=0;i<pm.length;i++){if(pm[i].price){c++}}}catch(e){};}
+pbjs.setTargetingForGPTAsync();
+for(a in r){
+if(r.hasOwnProperty(a)){
+b=r[a].bids;for(var i=0;i<b.length;i++){if(b[i].cpm){c++;}}
+}
+}
+googletag.pubads().setTargeting("tadbid",""+c).refresh();
+});
+});
+}
+setTimeout(function(){
+sendAdserverRequest();
+},1000);
+var OX_dfp_options={prefetch:true};
+var OX_dfp_ads=[["/1004254/com728",["728x90"],"div-gpt-com-728x90"]];
+function loadjs(u,i){
+var d=document,g=d.createElement('script'),n=d.getElementsByTagName('script')[0];
+if(i){g.id=i}g.async=true;g.type='text/javascript';g.src='https://'+u;
+n.parentNode.insertBefore(g,n);
+}
+var googletag=googletag||{};
+googletag.cmd=googletag.cmd||[];
+loadjs('www.googletagservices.com/tag/js/gpt.js');
+googletag.cmd.push(function() {googletag.defineSlot('/1004254/com728',[728,90],'div-gpt-com-728x90').addService(googletag.pubads());
+googletag.pubads().setTargeting('ab','b').setTargeting('art','3259').setTargeting('hr','13').setTargeting('tadhb','8').setTargeting('instart',window.I10C?(window.I10C.Morph?'morph':'instart'):'fastly').enableSingleRequest();googletag.enableServices();});
+</script>
+<script type="text/javascript" src="/common/prebidtad_11.js" async></script><link href="//c.tadst.com/common/global_72.css" type="text/css" rel=stylesheet><link rel=stylesheet type="text/css" href="//c.tadst.com/common/indexes_13.css"><meta property="fb:app_id" content=119413198130333 /><meta property="fb:pages" content=125036494190216 /><script type="application/ld+json">
+{"@context" : "http://schema.org",
+"@type":"WebSite",
+"name":"timeanddate.com",
+"alternateName" : "Time and Date",
+"url" : "http://www.timeanddate.com"
+}
+</script>
