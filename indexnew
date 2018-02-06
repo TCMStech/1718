@@ -1,0 +1,432 @@
+
+
+<!DOCTYPE html>
+<html lang="en" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"> 
+<head>
+<meta name="description" content="Terrace Community Middle School is the #1 Hillsborough County Public Charter School Non-Profit Education serving grades 6th-8th Middle school students in the Tampa Bay area, as well as the surrounding counties of Hillsborough including Pinellas, Pasco, Polk, Hardee and Manatee. Serving Middle School students in safe and high-academic environment, preparing them for college and for life."/>
+<meta name="robots" content="noodp"/>
+<meta name="generator" content= "HTML Tidy for Linux (vers 25 March 2009), see www.w3.org" />
+<meta charset="utf-8" />
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<meta name="generator" content="HUGO ">
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Hillsborough Public Charter School - Tampa area, FL: 6 - 8" />
+<meta property="og:description" content="Terrace Community Middle School, Hillsborough County's #1 Charter School. Serving Middle School students in safe and high-academic environment, preparing them for college and for life." />
+<meta property="og:url" content="http://tcmstornadoes.com//" />
+<meta property="og:site_name" content="Terrace Community Middle School" />  
+
+  <title>Terrace Community Middle School</title>
+  <link rel="shortcut icon" type="image/x-icon" href="/images/tcms_favicon.ico">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="https://kenwheeler.github.io/slick/slick/slick.css" rel="stylesheet"/>
+  <link href="https://kenwheeler.github.io/slick/slick/slick-theme.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="/css/main.css">
+
+  
+  <link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+  
+	<style type="text/css">
+.style9 {
+				text-align: center;
+				font-size: x-large;
+				color: #FFFFFF;
+}
+.style12 {
+				text-align: center;
+				font-size: 16pt;
+				color: #FFFFFF;
+}
+.style13 {
+				font-size: 16pt;
+}
+</style>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* The grid: Three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+    cursor: pointer;
+    color: white;
+}
+
+.containerTab {
+    padding: 20px;
+    color: white;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Closable button inside the container tab */
+.closebtn {
+    float: right;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+}
+.style14 {
+				border-width: 0px;
+}
+.style15 {
+				color: #FFCC66;
+}
+</style>
+
+
+
+
+
+
+<body onload="FP_preloadImgs(/*url*/'images/button8.jpg',/*url*/'images/button9.jpg',/*url*/'images/button27.jpg',/*url*/'images/button28.jpg',/*url*/'images/button2E.jpg',/*url*/'images/button2F.jpg',/*url*/'images/button31.jpg',/*url*/'images/button32.jpg',/*url*/'images/button3A.jpg',/*url*/'images/button3B.jpg',/*url*/'images/button3D.jpg',/*url*/'images/button3E.jpg',/*url*/'images/button6.jpg',/*url*/'images/button10.jpg',/*url*/'images/button4.jpg',/*url*/'images/button5.jpg')">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42008655-1', 'tcmstornadoes.com');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5BMCTR');</script>
+<!-- End Google Tag Manager -->
+</head>
+
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5BMCTR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+    <nav class="navbar navbar-inverse navbar-fixed-top menufont" role="navigation" id="main-navbar">
+        <div class="container">
+            
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="tcms navbar-brand "  href="/" > Terrace Community Middle School</a>
+            </div>
+            
+
+            
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li> <a href="/about">About TCMS</a> </li>
+                            <li> <a href="/admissions">Admissions</a> </li>
+                            <li> <a href="/board">Board of Directors</a> </li>
+                            <li> <a href="https://calendar.google.com/calendar/embed?src=tcmstornadoes1516%40gmail.com&ctz=America/New_York">Calendar</a> </li>
+                            <li> <a href="/employment">Employment</a> </li>
+                            <li> <a href="/testimonials">Testimonials</a> </li>
+                        </ul>
+                    </li>
+
+                    
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Academics<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li> <a href="/6thgrade">6th Grade</a> </li>
+                            <li> <a href="/7thgrade">7th Grade</a> </li>
+                            <li> <a href="/8thgrade">8th Grade</a> </li>
+                            <li> <a href="/files/calendar.pdf">Academic Calendar</a> </li>
+                            <li> <a href="/required#accountability">Accountability Report</a> </li>
+                            <li> <a href="/files/handbook.pdf">Expectations (Handbook)</a> </li>
+                            <li> <a href="/fieldtrips">Field Trips</a> </li>
+                            <li> <a href="https://tcmsecosystems.edublogs.org/">Outdoor Classroom</a> </li>
+                            <li> <a href="/students/zone">Zone</a> </li>
+                        </ul>
+                    </li>
+
+                    
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Students<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li> <a href="/students/afterschoolcare">AfterCare</a> </li>
+                            <li> <a href="/students/athletics">Athletics</a> </li>
+                            <li> <a href="/students/cafe">Cafe</a> </li>
+                            <li> <a href="/students/clinic">Clinic</a> </li>
+                            <li> <a href="/students/clubs">Clubs</a> </li>
+                            <li> <a href="/students/counseling">Counseling</a> </li>
+                            <li> <a href="https://sdhc.edsby.com/">Edsby</a> </li>
+                            <li> <a href="/students/ellesl">ELL/ESOL</a> </li>
+                            <li> <a href="/students/esegifted">ESE/Gifted</a> </li>
+                            <li> <a href="/students/mediacenter">Media Center</a> </li>
+                            <li> <a href="https://goo.gl/4z2Qyg">Report a Bully</a> </li>
+                            <li> <a href="/students/technology">Technology</a> </li>
+                        </ul>
+                    </li>
+
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Parents<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li> <a href="/parents/pra">About PRA</a> </li>
+                            <li> <a href="/parents/busdir">Business Directory</a> </li>
+                            <li> <a href="https://calendar.google.com/calendar/embed?src=tcmstornadoes1516%40gmail.com&ctz=America/New_York">Calendar</a> </li>
+                            <li> <a href="https://www.tbarta.com/en/school-program/commuter/school-program">Carpool</a> </li>
+                            <li> <a href="https://sdhc.edsby.com/">Edsby</a> </li>
+                            <li> <a href="/parents/highschoolinfo">High School Information</a> </li>
+                            <li> <a href="/students/cafe">Lunch Orders</a> </li>
+                            <li> <a href="https://www.sdhc.k12.fl.us/doc/1699/onlinereportcards">Report Cards</a> </li>
+                            <li> <a href="#">Socials</a> 
+                            	<ul class="dropdown">
+                                	<li><a href="https://www.facebook.com/tcmstornadoes">Facebook</a></li>
+                                	<li><a href="https://twitter.com/tcmstornadoes">Twitter</li>
+                            	</ul>
+                            </li>
+                            <li> <a href="/parents/volunteer">Volunteer</a> </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="/support">Support TCMS</a>
+                    </li>
+
+                </ul>
+            </div>
+            
+        </div>
+        
+    </nav>
+
+
+
+<div id="slideshow" class="myslideshow" style="background-color: #303030; width: auto; object-fit: contian; overflow: hidden;">
+        <div> <img src="/images/a-team.jpg" width="1820" height="482"/> </div>
+        <div> <a href="support/20th.html"> <img src="/images/auction.jpg" width="1820" height="482"/></a><div class="style9">The Parent Resource Association in partnership with The Back To Basics Charter School Foundation, 
+						<br>will proudly host The 20th Anniversary Celebration of Terrace Community Middle School. 
+						<br>Click image to learn more.</div></div>
+		<div> <img src="/images/math_team.jpg" width="1820" height="482"/> <div class="style9">
+						<span class="style13">These students are proudly displaying their win! TCMS Teams: 6th grade= 3rd place, 7th grade= 1st place, and Algebra= 2nd place.
+						<br>
+						TCMS Individuals:  6th grade= 1st place, 7th grade= 1st place, and Algebra= 3rd place.</span>
+</div> </div>
+		<div> <a href="https://tcmstornadoes.com/students/athletics/"> <img src="/images/spirit.jpg" width="1820" height="482"/></a><div class="style12">We look forward to providing our students with extracurricular opportunities that are well-rounded and 
+						<br>
+						meet high standards for a competitive interscholastic athletic program.</div></div>
+        <div> <a target="_blank" href="https://youtu.be/rK7o7JbGIfQ"><img src="/images/seedfolks.jpg" width="1820" height="482"/></a><a href="https://youtu.be/rK7o7JbGIfQ"> 
+						<div class="style12">Students create and maintain their own community garden at TCMS.</div></div>
+
+		<div> <img src="/images/impact.jpg" width="1820" height="482"/> <div class="style9">
+						<span class="style13">The Impact Club provides service leadership opportunities for students to build volunteerism and community relationships.</span> </div></div>
+		<div> <a target="_blank" href="https://tcmsecosystems.edublogs.org/partners/">
+						<img src="/images/fawqc.png" width="1820" height="482" style="width: 1820px" class="style14"/></a> 
+						<div class="style12">
+						The school's Outdoor Classroom provides students with hands-on science applications that allows for citizen science exploration. 
+						<br>Click to learn more about our partnerships and activities.</div></div>
+        <div> <a href="http://tcmstornadoes.com/support/"><img src="/images/instruct.jpg" width="1820" height="482"/></a><div class="style12">STEM (Science Technology, Engineering, Math) students participating in the Solar Eclipse experience.
+						<br>
+						Would you like to support Innovative Instruction at TCMS? Click to learn how.</div></div>
+</div>
+
+    
+    <!--/ newstuff-->
+    <!---->
+    <section id="cta-1">
+        <div class="container">
+            <div class="row">
+                <div class="cta-info text-center">                <div style="text-align:center">
+  <h2>TCMS CURRENTS</h2>
+  <p>Select the boxes below:</p>
+</div>
+
+<!-- Three columns -->
+<div class="row">
+  <div class="column" onclick="openTab('b1');" style="background:black;">
+    SPOTLIGHT
+  </div>
+  <div class="column" onclick="openTab('b2');" style="background:goldenrod;">
+    <font color="black">PARTNERS</font>
+  </div>
+  <div class="column" onclick="openTab('b3');" style="background:black;">
+    ALUMNI
+  </div>
+</div>
+
+<!-- Full-width columns: (hidden by default) -->
+<div id="b1" class="containerTab" style="display:none;background:black">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <h2>Tornadoes of the Week</h2>
+  <img src="/images/t3.png" style="width: 100px; height: 100px" class="style14"><p>Our TCMS Word of the Month is Trustworthiness. Please congratulate the Tornadoes of the Week: 
+  <br><span class="style15">Grade 6: Abigail Alman, Grade 7: Josh Benalcazar, Grade 8: Grace Mandia, and Star House: Kira McClard<br>Grade 6: Prasamsa Pandey, Grade 7: Bella Simmons, Grade 8: Andy Chen, Star House: Aaron Houlihan</span>
+  <br><span class="style15">Grade 6: Anay Patel, Grade 7:  Adam Kasti, Grade 8: Brooke Reif, Star House: Siyona Praveen <br>Grade 6: Alex Sotiropoulos, Grade 7:  Krithika Kondapally, Grade 8: Julie Fernandez, Star House: Jennifer Lynfatt 
+</span></p>
+
+</div>
+
+
+<div id="b2" class="containerTab" style="display:none;background:goldenrod">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <font color="black"><h2>Team Tornado</h2>
+  <img src="/images/volunteer.png" style="width: 100px; height: 100px" class="style14"><p>When Tampa Bay members support student learning, it sends a very clear message<br>
+  to our community that you value quality education in the Tampa Bay area. 
+  <br>Thank you once again for supporting TCMS, and we sincerely hope that you will consider us in the future.
+  <br><a href="/parents/busdir/">Please visit our Business Directory of Partners</a></p>
+</div>
+
+<div id="b3" class="containerTab" style="display:none;background:black">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <h2>Alumni</h2>
+  <img src="/images/alumni.png" style="width: 100px; height: 100px" class="style14"><p>We want you!... to attend the 20th Anniversary Auction Gala and connect with other TCS/TCMS Alumni and teachers. 
+  <br><span class="style15">Click the Save the Date banner for more information.<br> 
+	<a target="_blank" href="https://www.facebook.com/tornadoesalumni/">Join Alumni on FB</a>.</span></p>
+</div>
+
+<script>
+function openTab(tabName) {
+  var i, x;
+  x = document.getElementsByClassName("containerTab");
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";
+  }
+  document.getElementById(tabName).style.display = "block";
+}
+</script>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!---->
+    <!---->
+    
+
+<script>
+function openTab(tabName) {
+  var i, x;
+  x = document.getElementsByClassName("containerTab");
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";
+  }
+  document.getElementById(tabName).style.display = "block";
+}
+</script>
+                
+<hr>
+    <p></p>
+      <section id="cta-1">
+        <div class="container" align="center"style="background-color:#aaa;">
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/91850f36f99452cb880e4dfa10cf337f.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>    <p></p>
+</div>
+
+
+<div class="bar"></div>
+
+
+
+              <a href="support/20th.html">
+
+
+
+  <script type="text/javascript">
+  </script>
+
+
+    <div class="row " >
+        <div class="col-md-12" id="footer">
+   <ul class="text-center center-block list-inline menufont" >
+           <li> <a href="mailto:school.office@tcmstornadoes.com?Subject=Absence">Email Absence</a> </li>
+           <li> <a href="/faculty">Faculty</a> </li>
+           <li> <a href="/board">Board Of Directors</a> </li>
+           <li> <a href="https://tcmstornadoes.com/parents/busdir/">Business Directory</a> </li>
+           <li> <a href="/employment">Employment</a> </li>
+           <li> <a href="/support">Support TCMS</a> </li>
+    </ul>
+    </div>
+      <div>
+								<br>
+								<p class="text-center" style="font-size: 0.7em"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<div class="text-center">
+          
+          <div class="row">
+ <span>
+				<br>
+
+</div>
+<p class="text-center" style="font-size: 0.7em">
+Back to Basics Charter School Foundation, Inc.,  <br>
+11734 Jefferson Rd Thonotosassa, FL 33592  <br>
+Tel: <a href="tel:8139876555">(813) 987-6555</a> Fax: (813) 324-8974  <br>
+SDHC School #6606  <a href="/required">Statutorily Required Information </a> <br/>
+</p>
+
+<div class="row">
+<div class="container">
+        <div class="text-center center-block">
+               <a href="https://www.facebook.com/tcmstornadoes"><i class="fa fa-facebook-square fa-2x social"></i></a>
+    <a href="https://twitter.com/tcmstornadoes"><i class="fa fa-twitter-square fa-2x social"></i></a>
+    <a href="mailto:school.office@tcmstornadoes.com"><i class="fa fa-envelope-square fa-2x social"></i></a>
+    <a href="https://www.instagram.com/tcmstornadoes/"><i class="fa fa-instagram fa-2x cocial"></i></a>
+    </div>
+</div>
+</div>
+
+
+</div>
+
+
+
+   <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+   <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+   <script src="/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+
+    <script type="text/javascript">
+    $(window).resize(function () { 
+        $('body').css('padding-top', parseInt($('#main-navbar').css("height")));
+    });
+
+    $(window).load(function () { 
+        $('body').css('padding-top', parseInt($('#main-navbar').css("height")));         
+    }); 
+
+    $(document).ready(function(){
+          $('.myslideshow').slick({
+             dots: true,
+             arrows: true,
+             slideToShow: 1,
+             speed: 5000,
+             autoplay: true,
+             autoplaySpeed: 5000
+          });
+    });
+    </script>
+
+
+		</strong> 
+							
+
+</body>
+</html>
+
+
